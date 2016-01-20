@@ -25,7 +25,7 @@
     <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
     <property name="url" value="jdbc:mysql://localhost:3306/cv"/>
     <property name="username" value="cv"/>
-    <property name="password" value="mom7787"/>
+    <property name="password" value="password"/>
     <property name="validationQuery" value="SELECT 1"/>
   </bean>
    
