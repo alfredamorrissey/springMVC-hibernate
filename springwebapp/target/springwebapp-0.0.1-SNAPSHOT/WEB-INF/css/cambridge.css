@@ -1,0 +1,98 @@
+@media all and (max-width: 767px){	.unit_list{		width:100%;		padding:0px;		margin:0px;	}	}@media all and (min-width: 768px){	.unit_list{		width:90%;		padding:10px;		margin:10px;	}	}.dates {	float: right;	font-size: 1em;	font-weight: bold;	-webkit-margin-before: 0.83em;    -webkit-margin-after: 0.83em;    -webkit-margin-start: 0px;    -webkit-margin-end: 0px;}.project {	float: left;}.criteria_tags,.criteria_tags a {	color: red;}td.criteria_tags {	width: 10em;}table.cv {		padding: 1em;	width: 100%;}
+
+table.unit_list {
+
+ 	border-collapse:collapse;
+	text-align: center;
+}
+
+.unit_list td
+{
+	 border: 2px solid #08A8E4;
+	 background-color: #f9f4d8;
+	 padding: 0px;
+	 
+	 vertical-align: middle;
+	 text-align: center;
+}
+
+
+.unit_list td.border_no_left {
+	border-left: none;
+}
+
+.unit_list td.border_no_right {
+	border-right: none;
+}
+
+.unit_list td.border_no_top {
+	border-top: none;
+}
+
+.unit_list td.border_no_bottom {
+	border-bottom: none;
+}
+
+.unit_list td.border_none {
+	border-style: none;
+}
+.unit_list th {
+	border: 2px solid #08A8E4;
+	background-color: #08A8E4;
+	color: #ffffff;
+}
+
+.info { 
+	background: url("../img/Checkmark 2.png") no-repeat; 
+	color: #7a8cb7;
+}
+
+.error { 
+	color: red;
+	background: url("../img/Error.png") no-repeat; 
+}
+
+.warning { 
+	color: red;
+	background: url("../img/Warning.png") no-repeat; 
+}
+
+.info, .warning, .error {
+	position:relative;
+	height: 22px;
+	width: auto;
+}
+
+.msg_content {
+	font-size: 16px;
+	font-weight: bold;
+	left: 30px;
+	top: 50%;
+	-webkit-transform:translate(0%,-50%); 
+	transform:translate(0%,-50%);
+	position:absolute;
+	
+}
+
+div.footer_links {
+	color: #0a0e4b;
+	text-align: center;
+	font: 14px arial, sands-serif; 
+}
+
+div.footer_address {
+	color: #0a0e4b;
+	text-align: center;
+	font: 18px arial, sands-serif; 
+	
+}
+
+div.header1 {
+	-webkit-box-shadow: 1px 1px 1px #888888; /* Safari and Chrome */
+	box-shadow: 1px 1px 1px #888888;
+	width: 999px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+

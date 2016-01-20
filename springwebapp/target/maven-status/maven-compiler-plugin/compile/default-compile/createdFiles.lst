@@ -1,0 +1,11 @@
+com\alithya\domain\Car.class
+com\alithya\domain\Member.class
+com\alithya\controller\RFPController.class
+com\alithya\config\ServletInitializer.class
+com\alithya\service\RFPService.class
+com\alithya\service\MemberService.class
+com\alithya\config\AppConfig.class
+com\alithya\domain\RFP.class
+com\alithya\service\CarService.class
+com\alithya\controller\CarController.class
+com\alithya\controller\LoginController.class
